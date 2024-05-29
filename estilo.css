@@ -1,0 +1,49 @@
+.banner{
+    text-align: center;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+h2{
+    color: gray;
+    width: 650px;
+    margin: 0 auto;
+    padding-bottom: 30px;
+    font-size: 22px;
+}
+
+.imgtato{
+    text-align: center;
+}
+
+.tatuagens{
+    width: 650px;
+}
+
+.paragrafos{
+    text-align: center;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.txt{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+span{
+    color: red;
+}
+
+.sociais{
+    text-align: center;
+}
+
+.socium, .socidois, .socitres{
+    width: 40px;
+    padding-left: 18px;
+}
